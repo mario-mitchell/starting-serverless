@@ -1,6 +1,6 @@
-# [Replace this with your project title]
+# [Starting Serverless]
 
-## About Me
+## About Me: Military Veteran on an awesome Tech Quest.
 
 ## The Premise
 
