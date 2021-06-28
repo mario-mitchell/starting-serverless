@@ -3,4 +3,4 @@ function hello (){
     console.log("Hi")
 }
 
-module.exports = hello
+module.export = hello
