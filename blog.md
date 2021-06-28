@@ -1,6 +1,6 @@
 # [Starting Serverless]
 
-## About Me Military Veteran on an awesome Tech Quest.
+## About Me: Military Veteran on an awesome Tech Quest.
 
 ## The Premise
 
