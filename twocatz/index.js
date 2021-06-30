@@ -40,4 +40,3 @@ module.exports = async function (context, req) {
     };
 }
 
-//https://cataas.com/cat/cute/says/Serverless?
