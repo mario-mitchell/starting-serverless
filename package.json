@@ -6,6 +6,9 @@
     "start": "func start",
     "test": "echo \"No tests yet...\""
   },
-  "dependencies": {},
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "node": "^16.4.0"
+  },
   "devDependencies": {}
 }

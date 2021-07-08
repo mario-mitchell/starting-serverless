@@ -12,6 +12,7 @@
   "dependencies": {
     "fetch": "^1.1.0",
     "node-fetch": "^2.6.1",
-    "parse-multipart": "^1.0.4"
+    "parse-multipart": "^1.0.4",
+    "query-string": "^7.0.1"
   }
 }
